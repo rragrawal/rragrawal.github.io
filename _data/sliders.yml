@@ -3,7 +3,7 @@
   captions: true
   images:
     - src: /img/bg/7.jpeg
-      title: MIP-Frontiers' meeting, Barcelona, Spain, 2019
+      title: MIP-Frontiers' meeting, Barcelona, 2019
     - src: /img/bg/bg1.jpg
       title: Concert in Hyderabad, India, 2016
     - src: /img/bg/bg2.jpg
@@ -12,6 +12,8 @@
       title: MIP-Frontiers' sandbox event, London, 2019
     - src: /img/bg/bg3.jpg
       title: Trek in the Himalayas, 2017
+    - src: /img/bg/paris.jpeg
+      title: MIP-Frontiers' workshop, Paris, 2018
     - src: /img/bg/bg4.jpg
       title: Orissa, India, 2016
   settings:
