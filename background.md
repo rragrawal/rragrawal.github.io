@@ -1,6 +1,6 @@
 ---
 layout: page
-show-avatar: true
+show-avatar: false
 title: "Background"
 ---
 ## Work Experience

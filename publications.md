@@ -1,6 +1,6 @@
 ---
 layout: page
-show-avatar: true
+show-avatar: false
 title: "Publications"
 ---
 * {: .spaced :} **Learning Frame Similarity using Siamese networks for Audio-to-Score Alignment** [<i class="fas fa-file-pdf"></i>](https://www.eurasip.org/Proceedings/Eusipco/Eusipco2020/pdfs/0000141.pdf)  

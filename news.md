@@ -1,6 +1,6 @@
 ---
 layout: page
-show-avatar: true
+show-avatar: false
 title: "News"
 cover-img: "/img/bg/footer.jpg"
 ---

@@ -1,0 +1,20 @@
+{
+  "name": "rragrawal",
+  "homepage": "https://github.com/rragrawal/rragrawal.github.io/",
+  "authors": [
+    "rragrawal <ruchit787@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "ideal-image-slider": "^1.5.1"
+  }
+}

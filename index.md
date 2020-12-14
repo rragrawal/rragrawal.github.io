@@ -1,6 +1,6 @@
 ---
 layout: page
-show-avatar: true
+show-avatar: false
 title: Ruchit Agrawal
 subtitle: Marie-Curie Researcher at QMU London
 cover-img: 
