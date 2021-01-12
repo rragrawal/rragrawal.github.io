@@ -22,7 +22,7 @@ title: "Publications"
 * {: .spaced :} **No more beating about the bush: A Step towards idiom handling for Indian Language NLP** [<i class="fas fa-file-pdf"></i>](https://www.aclweb.org/anthology/L18-1048.pdf)  
   Agrawal R., Kumar V. C., Muralidharan V. and Sharma D.
 
-  *Proceedings of the Eleventh International Conference on Language Resources and Evaluation (LREC), 2018*
+  *Proceedings of the Eleventh International Conference on Language Resources and Evaluation (LREC), Miyazaki, Japan, 2018*
 * {: .spaced :} **Building an effective MT system for English-Hindi using RNN’S**  
   Agrawal R. and Sharma D.
 
@@ -30,17 +30,17 @@ title: "Publications"
 * {: .spaced :} **Three-phase training to address data sparsity in Neural Machine Translaiton** [<i class="fas fa-file-pdf"></i>](https://www.aclweb.org/anthology/W17-7503.pdf)  
   Agrawal R., Shekhar M. and Sharma D.
 
-  *Proceedings of the 14th International Conference on Natural Language Processing, 2017*
+  *Proceedings of the 14th International Conference on Natural Language Processing, Kolkata, India, 2017*
 
 * {: .spaced :} **Integrating knowledge encoded by linguistic phenomena of Indian languages with Neural Machine Translation**   
   Agrawal R., Shekhar M. and Sharma D.
 
-  *Proceedings of the International Conference on Mining Intelligence and Knowledge Exploration, 2017*
+  *Proceedings of the International Conference on Mining Intelligence and Knowledge Exploration, Hyderabad, India, 2017*
 
 * {: .spaced :} **A vis-à-vis evaluation of MT paradigms for linguistically distant languages** [<i class="fas fa-file-pdf"></i>](https://www.aclweb.org/anthology/W17-7505.pdf)  
   Agrawal R., Shekhar M. and Sharma D.
 
-  *Proceedings of the 14th International Conference on Natural Language Processing, 2017*
+  *Proceedings of the 14th International Conference on Natural Language Processing, Kolkata, India, 2017*
 
 * {: .spaced :} **Towards efficient Neural Machine Translation for Indian Languages** [<i class="fas fa-file-pdf"></i>](http://web2py.iiit.ac.in/research_centres/publications/download/mastersthesis.pdf.9bb2bd10f741b83d.546f776172647320656666696369656e74204e657572616c204d616368696e65205472616e736c6174696f6e20666f7220496e6469616e204c616e6775616765732028527563686974204167726177616c2c204d532c20323031303032303133292e706466.pdf)  
   Agrawal R.
