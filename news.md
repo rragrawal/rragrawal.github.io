@@ -12,4 +12,5 @@ cover-img: "/img/bg/footer.jpg"
 * {: .spaced :} **May 2019:** *MIP-Frontiers workshop at UPF Barcelona, Spain. Was a great experience!*
 * {: .spaced :} **Oct 2018:** *Arrivederci Trento, hello London! Started working at C4DM, QMUL*  
 * {: .spaced :} **May 2018:** *Presented my paper at EAMT 2018 in Alicante, Spain.*
-* {: .spaced :} **Jan 2017:** *Selected to train in Indian Classical Music from Pt. Hariprasad Chaurasia. Excited to spend a few months at his Gurukul!*
+* {: .spaced :} **Feb 2017:** *Will be joining the HLT-MT lab at FBK, Italy as a researcher*
+* {: .spaced :} **June 2016:** *Selected to train in Indian Classical Music from Pt. Hariprasad Chaurasia. Excited to spend a few months at his conservatorium!*
