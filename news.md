@@ -11,6 +11,8 @@ cover-img: "/img/bg/footer.jpg"
 * {: .spaced :} **June 2019:** *Will be presenting my paper at ML4MD, ICML 2019 in California.*
 * {: .spaced :} **May 2019:** *MIP-Frontiers workshop at UPF Barcelona, Spain. Was a great experience!*
 * {: .spaced :} **Oct 2018:** *Arrivederci Trento, hello London! Started working at C4DM, QMUL.*  
+* {: .spaced :} **Oct 2018:** *Paper presentation at WMT 2018 in Brussels.*  
+* {: .spaced :} **Sept 2018:** *Attending ISMIR 2018 in Paris.*  
 * {: .spaced :} **May 2018:** *Presented my paper at EAMT 2018 in Alicante, Spain.*
 * {: .spaced :} **Feb 2017:** *Will be joining the HLT-MT lab at FBK, Italy as a researcher.*
 * {: .spaced :} **June 2016:** *Selected to train in Indian Classical Music from Pt. Hariprasad Chaurasia. Excited to spend a few months at his conservatorium!*
