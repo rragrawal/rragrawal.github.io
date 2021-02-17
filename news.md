@@ -14,5 +14,7 @@ cover-img: "/img/bg/footer.jpg"
 * {: .spaced :} **Oct 2018:** *Arrivederci Trento, hello London! Started working at C4DM, QMUL.*  
 * {: .spaced :} **Sept 2018:** *Attending ISMIR 2018 in Paris with the MIP-Frontiers team*  
 * {: .spaced :} **May 2018:** *Presented my paper at EAMT 2018 in Alicante, Spain.*
+* * {: .spaced :} **May 2018:** *Presented my paper at LREC 2018 in Miyazaki, Japan.*
 * {: .spaced :} **Feb 2017:** *Will be joining the HLT-MT lab at FBK, Italy as a researcher.*
-* {: .spaced :} **June 2016:** *Selected to train in Indian Classical Music from Pt. Hariprasad Chaurasia. Excited to spend a few months at his conservatorium!*
+* * {: .spaced :} **Jan 2017:** *Defended Masters Thesis at IIIT Hyderabad.*
+* {: .spaced :} **June 2016:** *Selected to train in Indian Classical Music from Pt. Hariprasad Chaurasia. Excited to spend a few months learning from the maestro!*
