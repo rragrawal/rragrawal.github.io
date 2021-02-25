@@ -16,5 +16,5 @@ cover-img: "/img/bg/footer.jpg"
 * {: .spaced :} **May 2018:** *Presented my paper at EAMT 2018 in Alicante, Spain.*
 * {: .spaced :} **May 2018:** *Presented my paper at LREC 2018 in Miyazaki, Japan.*
 * {: .spaced :} **Feb 2017:** *Will be joining the HLT-MT lab at FBK, Italy as a researcher.*
-* {: .spaced :} **Jan 2017:** *Defended Masters Thesis at IIIT Hyderabad.*
+* {: .spaced :} **Dec 2016:** *Defended Masters Thesis at IIIT Hyderabad.*
 * {: .spaced :} **June 2016:** *Selected to train in Indian Classical Music from Pt. Hariprasad Chaurasia. Excited to spend a few months learning from the maestro!*
