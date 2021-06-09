@@ -4,7 +4,8 @@ show-avatar: false
 title: "News"
 cover-img: "/img/bg/footer.jpg"
 ---
-* {: .spaced :} **February 2021:** *Paper accepted at ICASSP 2021!* 
+
+* {: .spaced :} **February 2021:** *Paper accepted at IEEE ICASSP 2021!* 
 * {: .spaced :} **January 2021:** *Presented my paper at EUSIPCO 2020.* 
 * {: .spaced :} **November 2020:** *Attending ISMIR 2020.* 
 * {: .spaced :} **February 2020:** *MIP-Frontiers Sandbox event at London. Was fun collaborating with Luis Carvalho from JKU Austria.*  
