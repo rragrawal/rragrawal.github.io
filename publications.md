@@ -6,19 +6,19 @@ title: "Publications"
 * {: .spaced :} **Structure-Aware Audio-to-Score Alignment using Progressively Dilated Convolutional Neural Networks** [<i class="fas fa-file-pdf"></i>](https://arxiv.org/abs/2102.00382)  
   Agrawal R., Daniel Wolff and Dixon S.  
 
-  *Accepted for publication at IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), Toronto, Canada, 2021*
+  *IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), Toronto, Canada, 2021*
 * {: .spaced :} **Learning frame similarity using Siamese networks for Audio-to-Score Alignment** [<i class="fas fa-file-pdf"></i>](https://www.eurasip.org/Proceedings/Eusipco/Eusipco2020/pdfs/0000141.pdf)  
   Agrawal R. and Dixon S.  
 
-  *28th European Signal Processing Conference (EUSIPCO 2020), Amsterdam, The Netherlands, 2020*
+  *28th European Signal Processing Conference (EUSIPCO), Amsterdam, The Netherlands, 2020*
 * {: .spaced :} **A hybrid approach to Audio-to-Score Alignment** [<i class="fas fa-file-pdf"></i>](https://www.eecs.qmul.ac.uk/~simond/pub/2019/Agrawal-Dixon-ML4MD-2019.pdf)  
   Agrawal R. and Dixon S.
  
-  *Machine Learning for Media Discovery Workshop (ML4MD), International Conference on Machine Learning (ICML), California, United States, 2019*
+  *Machine Learning for Media Discovery Workshop at International Conference on Machine Learning (ICML), California, United States, 2019*
 * {: .spaced :} **Contextual Handling in Neural Machine Translation:Look behind, ahead and on both sides** [<i class="fas fa-file-pdf"></i>](https://cris.fbk.eu/retrieve/handle/11582/314425/23380/EAMT2018-Proceedings_03.pdf)  
   Agrawal R., Turchi M. and Negri M. 
 
-  *Proceedings of the 21st Annual Conference of the European Association for Machine Translation, Alacant, Spain, 2018*
+  *Proceedings of the 21st Annual Conference of the European Association for Machine Translation (EAMT), Alacant, Spain, 2018*
 * {: .spaced :} **Multi-source Transformer with combined losses for Automatic Post-Editing** [<i class="fas fa-file-pdf"></i>](https://www.aclweb.org/anthology/W18-6471.pdf)  
   Tebbifakhr A., Agrawal R., Negri M. and Turchi M.
 
