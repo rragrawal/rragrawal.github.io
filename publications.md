@@ -33,10 +33,10 @@ title: "Publications"
 
   *Proceedings of the 14th International Conference on Natural Language Processing, Kolkata, India, 2017*
 
-* {: .spaced :} **Integrating knowledge encoded by linguistic phenomena of Indian languages with Neural Machine Translation**   
+* {: .spaced :} **Integrating knowledge encoded by linguistic phenomena of Indian languages with Neural Machine Translation**  [<i class="fas fa-file-pdf"></i>](https://link.springer.com/chapter/10.1007/978-3-319-71928-3_28)   
   Agrawal R., Shekhar M. and Sharma D.
 
-  *Proceedings of the International Conference on Mining Intelligence and Knowledge Exploration, Hyderabad, India, 2017*
+  *Proceedings of the International Conference on Mining Intelligence and Knowledge Exploration, part of the Lecture Notes in Computer Science book series (LNCS, volume 10682)*
 
 * {: .spaced :} **A vis-à-vis evaluation of MT paradigms for linguistically distant languages** [<i class="fas fa-file-pdf"></i>](https://www.aclweb.org/anthology/W17-7505.pdf)  
   Agrawal R., Shekhar M. and Sharma D.
