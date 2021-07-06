@@ -3,11 +3,11 @@ layout: page
 show-avatar: false
 title: "Publications"
 ---
-* {: .spaced :} **Structure-Aware Audio-to-Score Alignment using Progressively Dilated Convolutional Neural Networks** [<i class="fas fa-file-pdf"></i>](https://arxiv.org/abs/2102.00382)  
+* {: .spaced :} **Structure-Aware Audio-to-Score Alignment using Progressively Dilated Convolutional Neural Networks** [<i class="fas fa-file-pdf"></i>](https://ieeexplore.ieee.org/document/9414049)  
   Agrawal R., Daniel Wolff and Dixon S.  
 
   *IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), Toronto, Canada, 2021*
-* {: .spaced :} **Learning frame similarity using Siamese networks for Audio-to-Score Alignment** [<i class="fas fa-file-pdf"></i>](https://www.eurasip.org/Proceedings/Eusipco/Eusipco2020/pdfs/0000141.pdf)  
+* {: .spaced :} **Learning frame similarity using Siamese networks for Audio-to-Score Alignment** [<i class="fas fa-file-pdf"></i>](https://ieeexplore.ieee.org/abstract/document/9287625)  
   Agrawal R. and Dixon S.  
 
   *28th European Signal Processing Conference (EUSIPCO), Amsterdam, The Netherlands, 2020*
