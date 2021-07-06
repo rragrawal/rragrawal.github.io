@@ -27,10 +27,7 @@ title: "Publications"
   Agrawal R., Kumar V. C., Muralidharan V. and Sharma D.
 
   *Proceedings of the Eleventh International Conference on Language Resources and Evaluation (LREC), Miyazaki, Japan, 2018*
-* {: .spaced :} **Building an effective MT system for English-Hindi using RNN’S**  
-  Agrawal R. and Sharma D.
 
-  *International Journal of Artificial Intelligence & Applications*
 * {: .spaced :} **Three-phase training to address data sparsity in Neural Machine Translaiton** [<i class="fas fa-file-pdf"></i>](https://www.aclweb.org/anthology/W17-7503.pdf)  
   Agrawal R., Shekhar M. and Sharma D.
 
