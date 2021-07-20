@@ -8,7 +8,7 @@ cover-img: "/img/bg/footer.jpg"
 * {: .spaced :} **July 2021:** *[Video](https://youtu.be/0kni53Kys3U) and [slides](https://sigport.org/documents/slides-icassp-2021-paper-structure-aware-alignment) of our ICASSP 2021 paper on structure-aware alignment are available now*
 * {: .spaced :} **June 2021:** *[Presented paper](https://twitter.com/ieeeICASSP/status/1402949138959028230) on structure-aware alignment at [IEEE ICASSP 2021](https://2021.ieeeicassp.org/)!*
 * {: .spaced :} **February 2021:** *Paper accepted at [IEEE ICASSP 2021](https://2021.ieeeicassp.org/)!* 
-* {: .spaced :} **January 2021:** *Presented paper at [EUSIPCO 2020](https://signalprocessingsociety.org/blog/eusipco-2020-2020-28th-european-signal-processing-conference).* 
+* {: .spaced :} **January 2021:** *Presented paper on similarity learning for alignment at [EUSIPCO 2020](https://signalprocessingsociety.org/blog/eusipco-2020-2020-28th-european-signal-processing-conference).* 
 * {: .spaced :} **November 2020:** *Attending [ISMIR 2020](https://www.ismir2020.net/).* 
 * {: .spaced :} **February 2020:** *MIP-Frontiers Sandbox event at London. Was fun collaborating with [Luis Carvalho](https://www.jku.at/en/institute-of-computational-perception/about-us/people/luis-carvalho) from JKU Austria.*  
 * {: .spaced :} **June 2019:** *Will be presenting my paper at ML4MD, ICML 2019 in California.*
