@@ -15,7 +15,7 @@ title: "Publications"
   Agrawal R. and Dixon S.
  
   *Machine Learning for Media Discovery Workshop at International Conference on Machine Learning (ICML), California, United States, 2019*
-* {: .spaced :} [**Contextual Handling in Neural Machine Translation:Look behind, ahead and on both sides**](https://cris.fbk.eu/retrieve/handle/11582/314425/23380/EAMT2018-Proceedings_03.pdf)   [<i class="fas fa-file-pdf"></i>](https://cris.fbk.eu/retrieve/handle/11582/314425/23380/EAMT2018-Proceedings_03.pdf)  
+* {: .spaced :} [**Contextual Handling in Neural Machine Translation: Look behind, ahead and on both sides**](https://cris.fbk.eu/retrieve/handle/11582/314425/23380/EAMT2018-Proceedings_03.pdf)   [<i class="fas fa-file-pdf"></i>](https://cris.fbk.eu/retrieve/handle/11582/314425/23380/EAMT2018-Proceedings_03.pdf)  
   Agrawal R., Turchi M. and Negri M. 
 
   *Proceedings of the 21st Annual Conference of the European Association for Machine Translation (EAMT), Alacant, Spain, 2018*
