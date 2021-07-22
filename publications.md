@@ -3,23 +3,23 @@ layout: page
 show-avatar: false
 title: "Publications"
 ---
-* {: .spaced :} [**Structure-Aware Audio-to-Score Alignment using Progressively Dilated Convolutional Neural Networks**](https://ieeexplore.ieee.org/document/9414049) [<i class="fas fa-file-pdf"></i>](https://www.eecs.qmul.ac.uk/~simond/pub/2021/AgrawalWolffDixon-ICASSP2021-preprint.pdf)  
+* {: .spaced :} [**Structure-Aware Audio-to-Score Alignment using Progressively Dilated Convolutional Neural Networks**](https://ieeexplore.ieee.org/document/9414049)  [<i class="fas fa-file-pdf"></i>](https://www.eecs.qmul.ac.uk/~simond/pub/2021/AgrawalWolffDixon-ICASSP2021-preprint.pdf)  
   Agrawal R., Daniel Wolff and Dixon S.  
 
   *IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), Toronto, Canada, 2021*
-* {: .spaced :} **Learning frame similarity using Siamese networks for Audio-to-Score Alignment** [<i class="fas fa-file-pdf"></i>](https://ieeexplore.ieee.org/abstract/document/9287625)  
+* {: .spaced :} [**Learning frame similarity using Siamese networks for Audio-to-Score Alignment**](https://ieeexplore.ieee.org/abstract/document/9287625)  [<i class="fas fa-file-pdf"></i>](https://ieeexplore.ieee.org/abstract/document/9287625)  
   Agrawal R. and Dixon S.  
 
   *28th European Signal Processing Conference (EUSIPCO), Amsterdam, The Netherlands, 2020*
-* {: .spaced :} **A hybrid approach to Audio-to-Score Alignment** [<i class="fas fa-file-pdf"></i>](https://www.eecs.qmul.ac.uk/~simond/pub/2019/Agrawal-Dixon-ML4MD-2019.pdf)  
+* {: .spaced :} [**A hybrid approach to Audio-to-Score Alignment**](https://www.eecs.qmul.ac.uk/~simond/pub/2019/Agrawal-Dixon-ML4MD-2019.pdf)  [<i class="fas fa-file-pdf"></i>](https://www.eecs.qmul.ac.uk/~simond/pub/2019/Agrawal-Dixon-ML4MD-2019.pdf)  
   Agrawal R. and Dixon S.
  
   *Machine Learning for Media Discovery Workshop at International Conference on Machine Learning (ICML), California, United States, 2019*
-* {: .spaced :} **Contextual Handling in Neural Machine Translation:Look behind, ahead and on both sides** [<i class="fas fa-file-pdf"></i>](https://cris.fbk.eu/retrieve/handle/11582/314425/23380/EAMT2018-Proceedings_03.pdf)  
+* {: .spaced :} [**Contextual Handling in Neural Machine Translation:Look behind, ahead and on both sides**](https://cris.fbk.eu/retrieve/handle/11582/314425/23380/EAMT2018-Proceedings_03.pdf)   [<i class="fas fa-file-pdf"></i>](https://cris.fbk.eu/retrieve/handle/11582/314425/23380/EAMT2018-Proceedings_03.pdf)  
   Agrawal R., Turchi M. and Negri M. 
 
   *Proceedings of the 21st Annual Conference of the European Association for Machine Translation (EAMT), Alacant, Spain, 2018*
-* {: .spaced :} **Multi-source Transformer with combined losses for Automatic Post-Editing** [<i class="fas fa-file-pdf"></i>](https://www.aclweb.org/anthology/W18-6471.pdf)  
+* {: .spaced :} [**Multi-source Transformer with combined losses for Automatic Post-Editing**](https://www.aclweb.org/anthology/W18-6471.pdf)  [<i class="fas fa-file-pdf"></i>](https://www.aclweb.org/anthology/W18-6471.pdf)  
   Tebbifakhr A., Agrawal R., Negri M. and Turchi M.
 
   *Proceedings of the Third Conference on Machine Translation (WMT), Brussels, Belgium, 2018*
