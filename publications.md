@@ -3,8 +3,8 @@ layout: page
 show-avatar: false
 title: "Publications"
 ---
-* {: .spaced :} [**Structure-Aware Audio-to-Score Alignment using Progressively Dilated Convolutional Neural Networks**](https://ieeexplore.ieee.org/document/9414049) [<i class="fas fa-file-pdf"></i>](https://www.eecs.qmul.ac.uk/~simond/pub/2021/AgrawalWolffDixon-ICASSP2021-preprint.pdf)  
-  Agrawal R., Wolff D. and Dixon S.  
+* {: .spaced :} [**Structure-Aware Audio-to-Score Alignment using Progressively Dilated Convolutional Neural Networks**](https://ieeexplore.ieee.org/document/9414049)
+  *Agrawal R., Wolff D. and Dixon S.  
 
   *IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), Toronto, Canada, 2021*
   
