@@ -8,7 +8,7 @@ title: "Publications"
 
   *IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), Toronto, Canada, 2021*
   
-  [View abstract on IEEE Xplore](https://ieeexplore.ieee.org/document/9414049)  [ | View full pdf](https://www.eecs.qmul.ac.uk/~simond/pub/2021/AgrawalWolffDixon-ICASSP2021-preprint.pdf)  
+  [View abstract on IEEE Xplore](https://ieeexplore.ieee.org/document/9414049) | [View full pdf](https://www.eecs.qmul.ac.uk/~simond/pub/2021/AgrawalWolffDixon-ICASSP2021-preprint.pdf)  
 
 * {: .spaced :} [**Learning frame similarity using Siamese networks for Audio-to-Score Alignment**](https://ieeexplore.ieee.org/abstract/document/9287625)  [<i class="fas fa-file-pdf"></i>](https://ieeexplore.ieee.org/abstract/document/9287625)  
   Agrawal R. and Dixon S.  
