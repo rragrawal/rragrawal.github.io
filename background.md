@@ -18,7 +18,7 @@ title: "Background"
   <li><span class="fa-li"><i class="fas fa-flask"></i></span>
         <strong>NLP Researcher</strong> (2015-2016) at <a href="https://ltrc.iiit.ac.in/">Language Technologies Research Center, IIIT Hyderabad</a>
   </li>
-   <li><span class="fa-li"><i class="fas fa-group"></i></span>
+   <li><span class="fa-li"><i class="fas fa-chalkboard-teacher"></i></span>
         <strong>Teaching Assistant</strong> (2014-2016) at <a href="https://ltrc.iiit.ac.in/">IIIT Hyderabad</a>
   </li>
     <li><span class="fa-li"><i class="fas fa-briefcase"></i></span>
