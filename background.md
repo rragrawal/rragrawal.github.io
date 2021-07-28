@@ -13,13 +13,16 @@ title: "Background"
         <strong>AI Researcher</strong> (2017) at <a href="https://ict.fbk.eu/units/hlt-mt/">Machine Translation group at FBK, Italy</a>
   </li>
   <li><span class="fa-li"><i class="fas fa-briefcase"></i></span>
-        <strong>Software Developer</strong> (Summer 2014, Summer 2016) at <a href="https://summerofcode.withgoogle.com/">Google Summer of Code</a>
+        <strong>Software Developer</strong> (Summer 2016) at <a href="https://summerofcode.withgoogle.com/">Google Summer of Code</a>
   </li>
   <li><span class="fa-li"><i class="fas fa-flask"></i></span>
         <strong>NLP Researcher</strong> (2015-2016) at <a href="https://ltrc.iiit.ac.in/">Language Technologies Research Center, IIIT Hyderabad</a>
   </li>
-   <li><span class="fa-li"><i class="fa fa-group"></i></span>
+   <li><span class="fa-li"><i class="fas fa-group"></i></span>
         <strong>Teaching Assistant</strong> (2014-2016) at <a href="https://ltrc.iiit.ac.in/">IIIT Hyderabad</a>
+  </li>
+    <li><span class="fa-li"><i class="fas fa-briefcase"></i></span>
+        <strong>Software Developer</strong> (Summer 2014) at <a href="https://summerofcode.withgoogle.com/">Google Summer of Code</a>
   </li>
 </ul>
 
