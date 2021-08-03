@@ -10,13 +10,13 @@ title: "Background"
     <strong>Marie-Curie Researcher</strong> (2018 - present) at <a href="https://c4dm.eecs.qmul.ac.uk/">Centre for Digital Music, Queen Mary University of London</a>
   </li>
   <li><span class="fa-li"><i class="fas fa-briefcase"></i></span>
-        <strong>AI Researcher</strong> (2017) at <a href="https://ict.fbk.eu/units/hlt-mt/">Machine Translation group at FBK, Italy</a>
+        <strong>AI Researcher</strong> (2017-2018) at <a href="https://ict.fbk.eu/units/hlt-mt/">Machine Translation group at FBK, Italy</a>
   </li>
   <li><span class="fa-li"><i class="fas fa-briefcase"></i></span>
         <strong>Software Developer</strong> (Summer 2016) at <a href="https://summerofcode.withgoogle.com/">Google Summer of Code</a>
   </li>
   <li><span class="fa-li"><i class="fas fa-flask"></i></span>
-        <strong>NLP Researcher</strong> (2015-2016) at <a href="https://ltrc.iiit.ac.in/">Language Technologies Research Center, IIIT Hyderabad</a>
+        <strong>NLP Researcher</strong> (2015-2017) at <a href="https://ltrc.iiit.ac.in/">Language Technologies Research Center, IIIT Hyderabad</a>
   </li>
    <li><span class="fa-li"><i class="fas fa-chalkboard-teacher"></i></span>
         <strong>Teaching Assistant</strong> (2014-2016) at <a href="https://ltrc.iiit.ac.in/">IIIT Hyderabad</a>
