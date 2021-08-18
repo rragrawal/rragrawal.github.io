@@ -11,7 +11,7 @@ cover-img: "/img/bg/footer.jpg"
 * {: .spaced :} **January 2021:** *Presented paper on similarity learning for alignment at [EUSIPCO 2020](https://signalprocessingsociety.org/blog/eusipco-2020-2020-28th-european-signal-processing-conference).* 
 * {: .spaced :} **November 2020:** *Attending [ISMIR 2020](https://www.ismir2020.net/).* 
 * {: .spaced :} **February 2020:** *MIP-Frontiers Sandbox event at London. Was fun collaborating with [Luis Carvalho](https://www.jku.at/en/institute-of-computational-perception/about-us/people/luis-carvalho) from JKU Austria.*  
-* * {: .spaced :} **November 2019:** *Attended [ISMIR 2019](https://ismir2019.ewi.tudelft.nl/) in Delft, The Netherlands. Wonderfully organized!*
+* {: .spaced :} **November 2019:** *Attended [ISMIR 2019](https://ismir2019.ewi.tudelft.nl/) in Delft, The Netherlands. Wonderfully organized!*
 * {: .spaced :} **June 2019:** *Will be presenting my paper at ML4MD, [ICML 2019](https://icml.cc/Conferences/2019) in California.*
 * {: .spaced :} **May 2019:** *MIP-Frontiers workshop at [UPF Barcelona, Spain](https://www.upf.edu/en/). Was a great experience!*
 * {: .spaced :} **November 2018:** *Paper presentation at [WMT 2018](https://www.statmt.org/wmt18/) in Brussels, Belgium.*  
