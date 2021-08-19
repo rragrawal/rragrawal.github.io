@@ -9,6 +9,7 @@ cover-img: "/img/bg/footer.jpg"
 * {: .spaced :} **June 2021:** *[Presented paper](https://twitter.com/ieeeICASSP/status/1402949138959028230) on structure-aware alignment at [IEEE ICASSP 2021](https://2021.ieeeicassp.org/)!*
 * {: .spaced :} **February 2021:** *Paper accepted at [IEEE ICASSP 2021](https://2021.ieeeicassp.org/)!* 
 * {: .spaced :} **January 2021:** *Presented paper on similarity learning for alignment at [EUSIPCO 2020](https://signalprocessingsociety.org/blog/eusipco-2020-2020-28th-european-signal-processing-conference).* 
+* {: .spaced :} **December 2020:** *My [blog post](https://mip-frontiers.eu/2020/12/02/sf_ismir20.html) on score following is now up at the [MIP-Frontiers](https://mip-frontiers.eu) website.* 
 * {: .spaced :} **November 2020:** *Attending [ISMIR 2020](https://www.ismir2020.net/).* 
 * {: .spaced :} **February 2020:** *MIP-Frontiers Sandbox event at London. Was fun collaborating with [Luis Carvalho](https://www.jku.at/en/institute-of-computational-perception/about-us/people/luis-carvalho) from JKU Austria.*  
 * {: .spaced :} **November 2019:** *Attended [ISMIR 2019](https://ismir2019.ewi.tudelft.nl/) in Delft, The Netherlands. Wonderfully organized!*
