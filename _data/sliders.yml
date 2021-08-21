@@ -2,27 +2,29 @@
 - selector: example_slider
   captions: true
   images:
-  
+   
+    - src: /img/bg/icassp1.png
+      title: Presenting my paper at ICASSP 2021 - Session 1
     - src: /img/bg/icassp.png
-      title: Presenting my paper at ICASSP 2021
+      title: Presenting my paper at ICASSP 2021 - Session 2
     - src: /img/bg/ucla.png
-      title: Gave a talk on deep learning for Genomics at the UCLA Computational Genomics group, 2021
+      title: Gave a talk on deep learning at the UCLA Computational Genomics group, 2021
     - src: /img/bg/7.jpeg
       title: MIP-Frontiers' meeting, Barcelona, 2019
     - src: /img/bg/eamt1.jpeg
-      title: Presentation at EAMT 2018, Alicante
+      title: Paper presentation at EAMT 2018, Alicante
     - src: /img/bg/eamt2.jpeg
       title: Presenting my paper at EAMT 2018, Alicante
     - src: /img/bg/bg1.jpg
       title: Concert in Hyderabad, 2016
  #   - src: /img/bg/bg2.jpg
  #     title: Delft, The Netherlands, 2019
-    - src: /img/bg/london.jpeg
-      title: MIP-Frontiers' sandbox event, London, 2019
     - src: /img/bg/bg3.jpg
       title: Trek in the Himalayas, 2017
     - src: /img/bg/paris.jpeg
       title: At ISMIR, Paris, 2018
+    - src: /img/bg/london.jpeg
+      title: MIP-Frontiers' sandbox event, London, 2019
 
   settings:
     height: "'auto'"
