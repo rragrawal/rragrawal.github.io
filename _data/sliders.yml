@@ -3,9 +3,9 @@
   captions: true
   images:
    
-    - src: /img/bg/icassp2021_1.png
+    - src: /img/bg/icassp21_1.png
       title: Presenting my paper at ICASSP 2021 - Session 1
-    - src: /img/bg/icassp.png
+    - src: /img/bg/icassp21_2.png
       title: Presenting my paper at ICASSP 2021 - Session 2
     - src: /img/bg/ucla.png
       title: Giving a talk on deep learning at the UCLA Computational Genomics group, 2021
