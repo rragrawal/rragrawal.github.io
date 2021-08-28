@@ -24,12 +24,12 @@ title: "Publications"
   
   [View abstract on DeepAI](https://deepai.org/publication/a-hybrid-approach-to-audio-to-score-alignment) | [View full paper](http://eecs.qmul.ac.uk/~simond/pub/2019/Agrawal-Dixon-ML4MD-2019.pdf)
 
-* {: .spaced :} [**Contextual Handling in Neural Machine Translation: Look behind, ahead and on both sides**](https://cris.fbk.eu/retrieve/handle/11582/314425/23380/EAMT2018-Proceedings_03.pdf)     
+* {: .spaced :} [**Contextual Handling in Neural Machine Translation: Look behind, ahead and on both sides**](https://cris.fbk.eu/retrieve/handle/11582/314425/23380)     
   Agrawal R., Turchi M. and Negri M. 
 
   *Proceedings of the 21st Annual Conference of the European Association for Machine Translation (EAMT), Alacant, Spain, 2018*  
   
-  [View abstract on Semantic Scholar](https://www.semanticscholar.org/paper/Contextual-Handling-in-Neural-Machine-Translation%3A-Agrawal-Turchi/6e25bf8558d4a43560ca038c4adc209e5f448ddc) | [View full paper](https://cris.fbk.eu/retrieve/handle/11582/314425/23380/EAMT2018-Proceedings_03.pdf)
+  [View abstract on Semantic Scholar](https://www.semanticscholar.org/paper/Contextual-Handling-in-Neural-Machine-Translation%3A-Agrawal-Turchi/6e25bf8558d4a43560ca038c4adc209e5f448ddc) | [View full paper](https://core.ac.uk/download/pdf/226080579.pdf)
   
 * {: .spaced :} [**Multi-source Transformer with combined losses for Automatic Post-Editing**](https://www.aclweb.org/anthology/W18-6471.pdf)  
   Tebbifakhr A., Agrawal R., Negri M. and Turchi M.
