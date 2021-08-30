@@ -16,15 +16,15 @@
     - src: /img/bg/eamt18_2.jpeg
       title: Presenting my paper at EAMT 2018, Alicante
     - src: /img/bg/bg1.jpg
-      title: Concert in Hyderabad, 2016
+      title: Concert in Hyderabad
  #   - src: /img/bg/bg2.jpg
  #     title: Delft, The Netherlands, 2019
     - src: /img/bg/bg3.jpg
-      title: Trekking the Himalayas, 2017
+      title: Trekking the Himalayas
     - src: /img/bg/paris.jpeg
-      title: At ISMIR, Paris, 2018
+      title: At ISMIR 2018, Paris
     - src: /img/bg/london.jpeg
-      title: MIP-Frontiers' sandbox event, London, 2019
+      title: MIP-Frontiers' sandbox event, London
 
   settings:
     height: "'auto'"
