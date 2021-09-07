@@ -31,7 +31,7 @@ title: "Background"
 
 <ul class="fa-ul">
   <li><span class="fa-li"><i class="fas fa-spinner fa-pulse"></i></span>
-        <strong>Ph. D.</strong> (expected 2021) at <a href="http://www.eecs.qmul.ac.uk/">School of Electronic Engineering and Computer Science, QMU London</a> as part of the <a href="https://mip-frontiers.eu/">MIP-Frontiers</a> programme.
+        <strong>Ph. D.</strong> (expected 2021) at <a href="http://www.eecs.qmul.ac.uk/">School of Electronic Engineering and Computer Science, Queen Mary University of London</a> as part of the <a href="https://mip-frontiers.eu/">MIP-Frontiers</a> programme.
   </li>
   <li><span class="fa-li"><i class="fas fa-graduation-cap"></i></span>
         <strong>M. S. by Research</strong> in <a href="https://ltrc.iiit.ac.in/">Computer Science and Engineering</a> from <a href="https://www.iiit.ac.in/">IIIT Hyderabad</a>
@@ -44,7 +44,7 @@ title: "Background"
 ## Interests
 
 <ul class="fa-ul">
-  <li><span class="fa-li"><i class="fas fa-music"></i></span> Indian classical music (Bansuri), jazz guitar, classical piano</li>
+  <li><span class="fa-li"><i class="fas fa-music"></i></span> Indian classical music (Bansuri), jazz guitar, classical piano, <a href="https://soundcloud.com/ruchit-agrawal">singing</a> </li>
   <li><span class="fa-li"><i class="fas fa-hiking"></i></span> Hiking, travelling, yoga</li>
   <li><span class="fa-li"><i class="fas fa-table-tennis"></i></span> Swimming, cycling, table tennis</li>
 </ul>
