@@ -11,10 +11,12 @@
       title: Giving a talk on deep learning at the UCLA Computational Genomics group, 2021
     - src: /img/bg/7.jpeg
       title: MIP-Frontiers' meeting, Barcelona, 2019
+    - src: /img/bg/icml2019.png
+      title: Paper presentation at ICML 2019, California
     - src: /img/bg/eamt18_1.jpeg
-      title: Paper presentation at EAMT 2018, Alicante
+      title: Presenting my paper at EAMT 2018, Alicante - Session 1
     - src: /img/bg/eamt18_2.jpeg
-      title: Presenting my paper at EAMT 2018, Alicante
+      title: Presenting my paper at EAMT 2018, Alicante - Session 2
  #   - src: /img/bg/bg1.jpg
  #     title: Concert in Hyderabad
  #   - src: /img/bg/bg2.jpg
@@ -22,7 +24,7 @@
  #   - src: /img/bg/bg3.jpg
  #     title: Trekking the Himalayas
     - src: /img/bg/paris.jpeg
-      title: At ISMIR 2018, Paris
+      title: Project meeting at ISMIR 2018, Paris
     - src: /img/bg/london.jpeg
       title: MIP-Frontiers' sandbox event, London
 
