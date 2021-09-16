@@ -8,7 +8,7 @@ cover-img: "/img/bg/footer.jpg"
 * {: .spaced :} **September 2021:** *Our [video](https://youtu.be/YgYV-7-ohxQ) on the Science Behind Music Technology has been released! It was great collaborating with the [MIP-Frontiers team](https://mip-frontiers.eu/people) on the making of this video!*
 * {: .spaced :} **July 2021:** *[Video](https://youtu.be/0kni53Kys3U) and [slides](https://sigport.org/documents/slides-icassp-2021-paper-structure-aware-alignment) of my ICASSP 2021 paper presentation are available now.*
 * {: .spaced :} **June 2021:** *[Presented paper](https://twitter.com/ieeeICASSP/status/1402949138959028230) on structure-aware alignment at [IEEE ICASSP 2021](https://2021.ieeeicassp.org/)!*
-* {: .spaced :} **March 2021:** *The [video](https://www.youtube.com/watch?v=W23I8YQX1QE) of my EUSIPCO 2020 paper presentation is available now.*
+* {: .spaced :} **March 2021:** *The [video](https://www.youtube.com/watch?v=W23I8YQX1QE) of my EUSIPCO 2020 paper presentation on metric learning for alignment is available now.*
 * {: .spaced :} **February 2021:** *My paper on structure-aware audio-to-score alignment has been accepted at [IEEE ICASSP 2021](https://2021.ieeeicassp.org/)!* 
 * {: .spaced :} **January 2021:** *Presented paper on similarity learning for alignment at [EUSIPCO 2020](https://signalprocessingsociety.org/blog/eusipco-2020-2020-28th-european-signal-processing-conference).* 
 * {: .spaced :} **December 2020:** *My [blog post](https://mip-frontiers.eu/2020/12/02/sf_ismir20.html) on score following is now up at the [MIP-Frontiers](https://mip-frontiers.eu) website.* 
