@@ -2,7 +2,7 @@
 layout: page
 show-avatar: false
 title: Ruchit Agrawal
-subtitle: Marie-Curie Researcher at QM London
+subtitle: AI Researcher at QM London
 cover-img: 
   - "/img/bg/bg.jpg" : Rise
 ---
