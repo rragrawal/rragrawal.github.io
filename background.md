@@ -37,7 +37,7 @@ title: "Background"
         <strong>M. S. by Research</strong> in <a href="https://ltrc.iiit.ac.in/">Computer Science and Engineering</a> from <a href="https://www.iiit.ac.in/">IIIT Hyderabad</a>
   </li>
   <li><span class="fa-li"><i class="fas fa-graduation-cap"></i></span>
-        <strong>B. Tech.</strong> in <a href="http://iiit.ac.in/">Computer Science and Engineering</a> from <a href="http://iiit.ac.in/">IIIT Hyderabad</a>
+        <strong>B. Tech. (Hons) </strong> in <a href="http://iiit.ac.in/">Computer Science and Engineering</a> from <a href="http://iiit.ac.in/">IIIT Hyderabad</a>
   </li>
 </ul>
 
