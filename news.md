@@ -6,7 +6,9 @@ cover-img: "/img/bg/footer.jpg"
 ---
 
 * {: .spaced :} **September 2021:** *Our [video](https://youtu.be/YgYV-7-ohxQ) on the Science Behind Music Technology has been released! It was great collaborating with the [MIP-Frontiers team](https://mip-frontiers.eu/people) on the making of this video!*
+* {: .spaced :} **August 2021:** *Happy to release a [Python notebook](https://nbviewer.jupyter.org/github/rragrawal/Deep-Learning-on-Chest-X-rays/blob/main/medicalImageCaptioning.ipynb) tutorial illustrating the application of deep learning for medical report generation from Chest X-rays!
 * {: .spaced :} **July 2021:** *[Video](https://youtu.be/0kni53Kys3U) and [slides](https://sigport.org/documents/slides-icassp-2021-paper-structure-aware-alignment) of my ICASSP 2021 paper presentation are available now.*
+* {: .spaced :} **July 2021:** *Pleased to release a tutorial on Deep Learning for the classification and localization of thoracic disorders from Chest X-ray images. The tutorial in the form of a Python notebook can be found [here](https://nbviewer.jupyter.org/github/rragrawal/Deep-Learning-on-Chest-X-rays/blob/main/classifyLocalizeAttention.ipynb)!
 * {: .spaced :} **June 2021:** *[Presented paper](https://twitter.com/ieeeICASSP/status/1402949138959028230) on structure-aware alignment at [IEEE ICASSP 2021](https://2021.ieeeicassp.org/)!*
 * {: .spaced :} **March 2021:** *The [video](https://www.youtube.com/watch?v=W23I8YQX1QE) of my EUSIPCO 2020 paper presentation on metric learning for alignment is available now.*
 * {: .spaced :} **February 2021:** *My paper on structure-aware audio-to-score alignment has been accepted at [IEEE ICASSP 2021](https://2021.ieeeicassp.org/)!* 
