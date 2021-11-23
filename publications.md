@@ -3,6 +3,12 @@ layout: page
 show-avatar: false
 title: "Publications"
 ---
+
+* {: .spaced :} [**A convolutional-attentional framework for structure-aware performance-score synchronization**] 
+  Agrawal R., Wolff D. and Dixon S.  
+  
+  *Accepted for publication in IEEE Signal Processing Letters*
+  
 * {: .spaced :} [**Structure-Aware Audio-to-Score Alignment using Progressively Dilated Convolutional Neural Networks**](https://ieeexplore.ieee.org/document/9414049)  
   Agrawal R., Wolff D. and Dixon S.  
   
