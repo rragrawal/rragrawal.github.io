@@ -5,7 +5,7 @@ title: "News"
 cover-img: "/img/bg/footer.jpg"
 ---
 
-* {: .spaced :} **November 2021:** *My paper titled "A convolutional-attentional neural framework for structure-aware performance-score synchronization" has been accepted at IEEE Signal Processing Letters!*
+* {: .spaced :} **November 2021:** *My paper titled "A convolutional-attentional neural framework for structure-aware performance-score synchronization" has been accepted at [IEEE Signal Processing Letters](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=97)!*
 * {: .spaced :} **September 2021:** *Our [video](https://youtu.be/YgYV-7-ohxQ) on the Science Behind Music Technology has been released! It was great collaborating with the [MIP-Frontiers team](https://mip-frontiers.eu/people) on the making of this video!*
 * {: .spaced :} **August 2021:** *Happy to release a [Python notebook](https://nbviewer.jupyter.org/github/rragrawal/Deep-Learning-on-Chest-X-rays/blob/main/medicalImageCaptioning.ipynb) tutorial illustrating the application of deep learning for medical report generation from Chest X-rays!*
 * {: .spaced :} **July 2021:** *[Video](https://youtu.be/0kni53Kys3U) and [slides](https://sigport.org/documents/slides-icassp-2021-paper-structure-aware-alignment) of my IEEE ICASSP 2021 paper presentation are available now.*
