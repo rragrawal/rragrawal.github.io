@@ -31,7 +31,7 @@ title: "Background"
 
 <ul class="fa-ul">
   <li><span class="fa-li"><i class="fas fa-spinner fa-pulse"></i></span>
-        <strong>Ph. D.</strong> (expected 2021) at <a href="http://www.eecs.qmul.ac.uk/">School of Electronic Engineering and Computer Science, Queen Mary University of London</a> as part of the <a href="https://mip-frontiers.eu/">MIP-Frontiers</a> programme.
+        <strong>Ph. D.</strong> at <a href="http://www.eecs.qmul.ac.uk/">School of Electronic Engineering and Computer Science, Queen Mary University of London</a> as part of the <a href="https://mip-frontiers.eu/">MIP-Frontiers</a> programme.
   </li>
   <li><span class="fa-li"><i class="fas fa-graduation-cap"></i></span>
         <strong>M. S. by Research</strong> in <a href="https://ltrc.iiit.ac.in/">Computer Science and Engineering</a> from <a href="https://www.iiit.ac.in/">IIIT Hyderabad</a>
