@@ -4,7 +4,7 @@ show-avatar: false
 title: "Publications"
 ---
 
-* {: .spaced :} [**A convolutional-attentional framework for structure-aware performance-score synchronization**](https://ieeexplore.ieee.org/abstract/document/9650716)
+* {: .spaced :} [**A convolutional-attentional framework for structure-aware performance-score synchronization**](https://ieeexplore.ieee.org/abstract/document/9650716)  
   Agrawal R., Wolff D. and Dixon S.  
   
   *IEEE Signal Processing Letters, 2021*
