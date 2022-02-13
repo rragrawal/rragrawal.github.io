@@ -4,29 +4,29 @@ show-avatar: false
 title: "Publications"
 ---
 
-* {: .spaced :} [**A convolutional-attentional framework for structure-aware performance-score synchronization**](https://ieeexplore.ieee.org/abstract/document/9650716)  
+* {: .spaced :} [**A Convolutional-Attentional Neural Framework for Structure-Aware Performance-Score Synchronization**](https://ieeexplore.ieee.org/abstract/document/9650716)  
   Agrawal R., Wolff D. and Dixon S.  
   
-  *IEEE Signal Processing Letters, 2021*
+  *IEEE Signal Processing Letters, Volume 29, December 2021*
   
   [View abstract on IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/9650716) | [View full paper](https://ieeexplore.ieee.org/abstract/document/9650716)  
 
   
-* {: .spaced :} [**Structure-Aware Audio-to-Score Alignment using Progressively Dilated Convolutional Neural Networks**](https://ieeexplore.ieee.org/document/9414049)  
+* {: .spaced :} [**Structure-Aware Audio-to-Score Alignment Using Progressively Dilated Convolutional Neural Networks**](https://ieeexplore.ieee.org/document/9414049)  
   Agrawal R., Wolff D. and Dixon S.  
   
   *IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), Toronto, Canada, 2021*
   
   [View abstract on IEEE Xplore](https://ieeexplore.ieee.org/document/9414049) | [View full paper](https://www.eecs.qmul.ac.uk/~simond/pub/2021/AgrawalWolffDixon-ICASSP2021-preprint.pdf)  
 
-* {: .spaced :} [**Learning frame similarity using Siamese networks for Audio-to-Score Alignment**](https://ieeexplore.ieee.org/abstract/document/9287625)  
+* {: .spaced :} [**Learning Frame Similarity Using Siamese Networks for Audio-to-Score Alignment**](https://ieeexplore.ieee.org/abstract/document/9287625)  
   Agrawal R. and Dixon S.  
 
   *28th European Signal Processing Conference (EUSIPCO), Amsterdam, The Netherlands, 2020*  
   
   [View abstract on IEEE Xplore](https://ieeexplore.ieee.org/document/9287625) | [View full paper](https://arxiv.org/pdf/2011.07546.pdf)
   
-* {: .spaced :} [**A hybrid approach to Audio-to-Score Alignment**](https://www.eecs.qmul.ac.uk/~simond/pub/2019/Agrawal-Dixon-ML4MD-2019.pdf)  
+* {: .spaced :} [**A Hybrid Approach to Audio-to-Score Alignment**](https://www.eecs.qmul.ac.uk/~simond/pub/2019/Agrawal-Dixon-ML4MD-2019.pdf)  
   Agrawal R. and Dixon S.
  
   *Machine Learning for Media Discovery Workshop at International Conference on Machine Learning (ICML), California, United States, 2019*  
