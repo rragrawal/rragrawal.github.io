@@ -6,8 +6,10 @@ title: "Background"
 ## Work Experience
 
 <ul class="fa-ul">
+   <li><span class="fa-li"><i class="fas fa-flask"></i></span>
+    <strong>Postdoctoral Research Associate</strong> (April 2022 - current) at <a href="https://www.ox.ac.uk/">University of Oxford</a>
   <li><span class="fa-li"><i class="fas fa-flask"></i></span>
-    <strong>Marie-Curie AI Researcher</strong> (2018 - present) at <a href="https://c4dm.eecs.qmul.ac.uk/">Centre for Digital Music, Queen Mary University of London</a>
+    <strong>Marie-Curie AI Researcher</strong> (2018 - 2022) at <a href="https://c4dm.eecs.qmul.ac.uk/">Queen Mary University of London</a>
   </li>
   <li><span class="fa-li"><i class="fas fa-briefcase"></i></span>
         <strong>AI Researcher</strong> (2017-2018) at <a href="https://ict.fbk.eu/units/hlt-mt/">Machine Translation group at FBK, Italy</a>
