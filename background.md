@@ -8,6 +8,7 @@ title: "Background"
 <ul class="fa-ul">
    <li><span class="fa-li"><i class="fas fa-flask"></i></span>
     <strong>Postdoctoral Research Associate</strong> (April 2022 - current) at <a href="https://www.ox.ac.uk/">University of Oxford</a>
+   </li>
   <li><span class="fa-li"><i class="fas fa-flask"></i></span>
     <strong>Marie-Curie AI Researcher</strong> (2018 - 2022) at <a href="https://c4dm.eecs.qmul.ac.uk/">Queen Mary University of London</a>
   </li>
