@@ -4,6 +4,11 @@ show-avatar: false
 title: "Publications"
 ---
 
+* {: .spaced :} [**Don't just look at patient history for patient flow management, look at clinician history too!**](https://icml.cc/)  
+  Agrawal R., Zhou J., Thakur A., Eyre D. and Clifton D.  
+  
+  *The 1st Workshop on Healthcare AI and COVID-19 at the International Conference on Machine Learning (ICML), July 2022*
+  
 * {: .spaced :} [**A Convolutional-Attentional Neural Framework for Structure-Aware Performance-Score Synchronization**](https://ieeexplore.ieee.org/abstract/document/9650716)  
   Agrawal R., Wolff D. and Dixon S.  
   
