@@ -6,7 +6,9 @@ cover-img: "/img/bg/footer.jpg"
 ---
 
 * {: .spaced :} **June 2022:** *Paper on patient flow management accepted at [ICML 2022](https://icml.cc/) in the First Workshop on Healthcare AI and COVID-19. Looking forward to presenting work on patient flow in Baltimore MD in July!*
-* {: .spaced :} **January 2022:** *Extremely delighted to have received a job offer from the [University of Oxford](https://www.ox.ac.uk/) as an AI Researcher in Clinical Machine Learning. Excited to be joining Oxford in April!*
+* {: .spaced :} **April 2022:** *Started working at the [University of Oxford](https://www.ox.ac.uk/) at the Computational Health Informatics group - Thrilled to be working in the city of dreaming spiers!*
+* {: .spaced :} **March 2022:** *Defended my PhD thesis at the [Queen Mary University of London](https://www.qmul.ac.uk/) - Phewww!!!*
+* {: .spaced :} **January 2022:** *Extremely delighted to have received a job offer from the [University of Oxford](https://www.ox.ac.uk/) as a Postdoctoral Research Associate in Clinical Machine Learning. Excited to be joining Oxford in April!*
 * {: .spaced :} **November 2021:** *My paper titled "A convolutional-attentional neural framework for structure-aware performance-score synchronization" has been accepted at [IEEE Signal Processing Letters](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=97)!*
 * {: .spaced :} **September 2021:** *Our [video](https://youtu.be/YgYV-7-ohxQ) on the Science Behind Music Technology has been released! It was great collaborating with the [MIP-Frontiers team](https://mip-frontiers.eu/people) on the making of this video!*
 * {: .spaced :} **August 2021:** *Happy to release a [Python notebook](https://nbviewer.jupyter.org/github/rragrawal/Deep-Learning-on-Chest-X-rays/blob/main/medicalImageCaptioning.ipynb) tutorial illustrating the application of deep learning for medical report generation from Chest X-rays!*
