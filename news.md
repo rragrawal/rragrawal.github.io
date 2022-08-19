@@ -5,7 +5,7 @@ title: "News"
 cover-img: "/img/bg/footer.jpg"
 ---
 * {: .spaced :} **June 2022:** *Paper on patient flow management accepted at [ICML 2022](https://icml.cc/) in the First Workshop on Healthcare AI and COVID-19. Looking forward to presenting work on patient flow in Baltimore MD in July!*
-* {: .spaced :} **June 2022:** *[Summer update](https://eng.ox.ac.uk/chi/news/summer-update-2022/) from Oxford!*
+* {: .spaced :} **May 2022:** *[Summer update](https://eng.ox.ac.uk/chi/news/summer-update-2022/) from Oxford!*
 * {: .spaced :} **April 2022:** *Started working at the [University of Oxford](https://www.ox.ac.uk/) at the [Computational Health Informatics](https://eng.ox.ac.uk/chi/)  lab - Thrilled to be working in the city of dreaming spiers!*
 * {: .spaced :} **March 2022:** *Successfully defended my PhD in Computer Science at the [Queen Mary University of London](https://www.qmul.ac.uk/) - Phewww!!!*
 * {: .spaced :} **January 2022:** *Extremely delighted to have received a job offer from the [University of Oxford](https://www.ox.ac.uk/) as a Postdoctoral Research Associate in Clinical Machine Learning. Excited to be joining Oxford in April!*
