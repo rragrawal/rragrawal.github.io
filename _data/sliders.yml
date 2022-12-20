@@ -2,6 +2,8 @@
 - selector: example_slider
   captions: true
   images:
+    - src: /img/bg/ox2.png
+      title: Farewell dinner, Oxford
     - src: /img/bg/icml22.png
       title: Presenting my paper at ICML 2022, USA - Healthcare AI workshop
     - src: /img/bg/zwi11ecd4h381.jpg
