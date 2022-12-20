@@ -34,3 +34,4 @@ cover-img: "/img/bg/footer.jpg"
 * {: .spaced :} **Feb 2017:** *Will be joining the [HLT-MT](https://hlt-mt.fbk.eu/) lab at FBK, Italy as a researcher.*
 * {: .spaced :} **Dec 2016:** *Defended Masters Thesis at [IIIT Hyderabad](https://www.iiit.ac.in/).*
 * {: .spaced :} **June 2016:** *Selected to train in Indian Classical Music from [Pt. Hariprasad Chaurasia](http://www.hariprasadchaurasia.com/). Excited to spend a few months learning from the maestro!*
+* {: .spaced :} **In a previous life:** *Performing [Stairway to Heaven](https://www.youtube.com/watch?v=h3TMWviOx2g) live at IIIT Hyderabad.*
