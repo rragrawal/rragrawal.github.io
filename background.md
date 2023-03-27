@@ -6,8 +6,12 @@ title: "Background"
 ## Work Experience
 
 <ul class="fa-ul">
+   
+   <li><span class="fa-li"><i class="fas fa-briefcase"></i></span>
+    <strong>Assistant Professor of Computer Science</strong> (November 2022 - current) at <a href="https://www.birmingham.ac.uk/dubai/index.aspx">University of Birmingham Dubai</a>
+   </li>
    <li><span class="fa-li"><i class="fas fa-flask"></i></span>
-    <strong>Postdoctoral Research Associate</strong> (April 2022 - current) at <a href="https://www.ox.ac.uk/">University of Oxford</a>
+    <strong>Postdoctoral Research Associate</strong> (April 2022 - November 2022) at <a href="https://www.ox.ac.uk/">University of Oxford</a>
    </li>
   <li><span class="fa-li"><i class="fas fa-flask"></i></span>
     <strong>Marie-Curie AI Researcher</strong> (2018 - 2022) at <a href="https://c4dm.eecs.qmul.ac.uk/">Queen Mary University of London</a>
