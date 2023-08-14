@@ -4,6 +4,7 @@ show-avatar: false
 title: "News"
 cover-img: "/img/bg/footer.jpg"
 ---
+* {: .spaced :} **August 2023:** *Pleased to have given a talk on generative AI at [IIT Madras](https://www.iitm.ac.in/) addressed to the bright cohort joining the joint MSc in Data Science at University of Birmingham + IIT Madras. [Video available here](https://drive.google.com/file/d/1Br-yCMJ4O_0Xo6VWn1sqnTmaRCN3CVQq/view)*
 * {: .spaced :} **July 2022:** *The [video](https://drive.google.com/file/d/18uSCfIiM1694NmJH18SQLNdPhtqCIkAz/view?usp=sharing) of my talk at [ICML 2022](https://icml.cc/) on Machine Learning for improving Patient Flow is out now!*
 * {: .spaced :} **June 2022:** *Paper on patient flow management accepted at [ICML 2022](https://icml.cc/) in the First Workshop on Healthcare AI and COVID-19. Looking forward to presenting work on patient flow in Baltimore MD in July!*
 * {: .spaced :} **May 2022:** *[Summer update](https://eng.ox.ac.uk/chi/news/summer-update-2022/) from Oxford - Thanks for the warm welcome!*
