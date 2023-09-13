@@ -10,6 +10,9 @@ title: "Background"
    <li><span class="fa-li"><i class="fas fa-briefcase"></i></span>
     <strong>Assistant Professor of Computer Science</strong> (November 2022 - current) at <a href="https://www.birmingham.ac.uk/dubai/index.aspx">University of Birmingham Dubai</a>
    </li>
+   <li><span class="fa-li"><i class="fas fa-briefcase"></i></span>
+    <strong>Head of Computer Science Outreach</strong> (January 2023 - current) at <a href="https://www.birmingham.ac.uk/dubai/index.aspx">University of Birmingham Dubai</a>
+   </li>
    <li><span class="fa-li"><i class="fas fa-flask"></i></span>
     <strong>Postdoctoral Research Associate</strong> (April 2022 - November 2022) at <a href="https://www.ox.ac.uk/">University of Oxford</a>
    </li>
