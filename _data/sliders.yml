@@ -2,6 +2,9 @@
 - selector: example_slider
   captions: true
   images:
+  
+    - src: /img/bg/tescoTalk.jpeg
+      title: Talk on generative AI at Tesco
     - src: /img/bg/ox2.png
       title: Farewell dinner, Oxford
     - src: /img/bg/icml22.png
