@@ -30,10 +30,10 @@
  #     title: Delft, The Netherlands, 2019
  #   - src: /img/bg/bg3.jpg
  #     title: Trekking the Himalayas
-    - src: /img/bg/paris.jpeg
-      title: Project meeting at ISMIR 2018, Paris
-    - src: /img/bg/london.jpeg
-      title: MIP-Frontiers' sandbox event, London
+ #   - src: /img/bg/paris.jpeg
+ #     title: Project meeting at ISMIR 2018, Paris
+ #   - src: /img/bg/london.jpeg
+ #     title: MIP-Frontiers' sandbox event, London
 
   settings:
     height: "'auto'"
