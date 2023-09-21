@@ -3,6 +3,8 @@
   captions: true
   images:
   
+    - src: /img/bg/h.jpg
+      title: Invited talk at AI office, UAE
     - src: /img/bg/tescoTalk.jpeg
       title: Talk on generative AI at Tesco
     - src: /img/bg/ox2.png
