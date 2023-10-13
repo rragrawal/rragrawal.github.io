@@ -12,4 +12,4 @@ Dr Ruchit Agrawal is an Assistant Professor of Computer Science and Head of Comp
 Selected publications are listed [here](/publications), code samples can be found [here](https://nbviewer.org/github/rragrawal/Deep-Learning-on-Chest-X-rays/blob/main/classifyLocalizeAttention.ipynb), [here](https://nbviewer.org/github/rragrawal/Deep-Learning-on-Chest-X-rays/blob/main/medicalImageCaptioning.ipynb) and [here](https://nbviewer.org/github/rragrawal/multimodalAlignment/blob/main/multiModalAlignment.ipynb), and updates are listed [here](/news). To learn more about his professional background, please see [Education and Work Experience](/background). 
 Dr Agrawal can be reached via email at _r.r.agrawal (at) bham.ac.uk_. 
 
-[Google Scholar](https://scholar.google.com/citations?user=2txekSkAAAAJ&hl=en) | [LinkedIn](https://www.linkedin.com/in/ruchit-agrawal-824930220/)  | [GitHub code repository](https://github.com/rragrawal).
+[Google Scholar](https://scholar.google.com/citations?user=2txekSkAAAAJ&hl=en) | [LinkedIn](https://www.linkedin.com/in/ruchit-agrawal/)  | [GitHub code repository](https://github.com/rragrawal).
