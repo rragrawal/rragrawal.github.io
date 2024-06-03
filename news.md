@@ -4,7 +4,7 @@ show-avatar: false
 title: "News"
 cover-img: "/img/bg/footer.jpg"
 ---
-* {: .spaced :} **March 2024:** *Happy to share that our paper on a novel neural sentiment-enhanced stock price prediction model has been accepted at [LREC-COLING 2024](https://lrec-coling-2024.org/), to be organised in Turin in May 2024.*
+* {: .spaced :} **March 2024:** *Happy to share that our paper has been accepted at [LREC-COLING 2024](https://lrec-coling-2024.org/)! The paper is about developing a novel neural sentiment-enhanced stock price prediction model. The conference will be organised in Turin in May 2024.*
 * {: .spaced :} **October 2023:** *Delighted to share that my media interviews on Generative AI have been published by [WIRED](https://lnkd.in/d6qGw5iB), [The National News](https://lnkd.in/dMRP2PDn) and [Zawya](https://lnkd.in/dTYmF_FH) among others.*
 * {: .spaced :} **October 2023:** *Honored to be a panel member at the event "The Future of Generative AI in Education" at the University of Birmingham Dubai, and pleasure to share the dais with esteemed panelists Hamad Hisham Al Shirawi, Ali Nadaf, Noshaba Anbreen and Kashif Rajpoot*. 
 * {: .spaced :} **August 2023:** *Pleased to have given a talk on generative AI at [IIT Madras](https://www.iitm.ac.in/) addressed to the bright cohort joining the joint MSc in Data Science at University of Birmingham + IIT Madras. [Video available here](https://drive.google.com/file/d/1Br-yCMJ4O_0Xo6VWn1sqnTmaRCN3CVQq/view)*. 
