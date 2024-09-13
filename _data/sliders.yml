@@ -2,13 +2,22 @@
 - selector: example_slider
   captions: true
   images:
-  
+    - src: /img/bg/interspeech24-greece.jpeg
+      title: Paper presentation at INTERSPEECH 2024, Greece
+    - src: /img/bg/coling24-2.jpeg
+      title: Paper presentation at COLING 2024, Italy
+    - src: /img/bg/withKaranBillimora.jpeg
+      title: Farewell to Lord Karan Bilimoria (2024), Dubai
+    - src: /img/bg/withDongjiang.jpeg
+      title: Happy students, happy profs - Graduation ceremony (2024), Dubai
+    - src: /img/bg/genAI-panel.jpg
+      title: Panel discussion with experts from government and industry on the Future of AI in Education (2024), Dubai
     - src: /img/bg/h.jpg
-      title: Invited talk at AI office, UAE
+      title: Invited talk at AI office (2023), UAE
     - src: /img/bg/tescoTalk.jpeg
-      title: Talk on generative AI at Tesco
+      title: Talk on generative AI at Tesco (2023), Bengaluru, India
     - src: /img/bg/ox2.png
-      title: Farewell dinner, Oxford
+      title: Farewell dinner (2022), Oxford
     - src: /img/bg/icml22.png
       title: Presenting my paper at ICML 2022, USA - Healthcare AI workshop
     - src: /img/bg/zwi11ecd4h381.jpg
