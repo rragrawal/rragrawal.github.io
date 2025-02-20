@@ -4,6 +4,21 @@ show-avatar: false
 title: "Publications"
 ---
 
+* {: .spaced :} [**A Comprehensive Survey of Contemporary Arabic Sentiment Analysis: Methods, Challenges and Future Directions**](https://arxiv.org/abs/2502.03827)  
+  Shi Z., Agrawal R.  
+  
+  *2025 Annual Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics, USA, April 2025*
+
+* {: .spaced :} [**MMSD-Net: Towards multi-modal stuttering detection**](https://www.isca-archive.org/interspeech_2024/nie24_interspeech.pdf)  
+  Nie L., Reddy S. K. and Agrawal R.
+
+  *INTERSPEECH 2024, Greece, September 2024*
+  
+* {: .spaced :} [**FB-GAN: A novel neural sentiment-enhanced model for stock price prediction**](https://icml.cc/)  
+  Jain J. and Agrawal R. 
+  
+  *FinNLP at COLING 2024, Italy, May 2024*
+  
 * {: .spaced :} [**Don't just look at patient history for patient flow management, look at clinician history too!**](https://icml.cc/)  
   Agrawal R., Zhou J., Thakur A., Eyre D. and Clifton D.  
   
