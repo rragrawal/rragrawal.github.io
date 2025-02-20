@@ -6,7 +6,7 @@ cover-img: "/img/bg/footer.jpg"
 ---
 
 * {: .spaced :} **January 2025:** *I’m thrilled to share that I’ve recently been awarded a 1.5M AED research grant from the [Dubai Future Foundation](https://www.dubaifuture.ae/) to conduct research on Artificial Intelligence for Healthcare, as part of the [Dubai RDI Initiative](https://dubairdi.ae/). I'll be leading the project "KAMAL Health: Knowledge-Augmented Multi-Modal Arabic LLMs for Healthcare" along with wonderful colleagues Robail Yasrab, Eric Atwell, Mohamed El Hadidi, Ph.D., Sudarsana Reddy Kadiri, Shrikanth Narayanan.*
-* * {: .spaced :} **January 2025:** *Excited to share that my paper on Arabic sentiment analysis has been accepted to NAACL 2025, one of the top 3 NLP conferences globally. 
+* {: .spaced :} **January 2025:** *Excited to share that my paper on Arabic sentiment analysis has been accepted to NAACL 2025, one of the top 3 NLP conferences globally. 
 Full paper available [here](https://arxiv.org/abs/2502.03827)*
 * {: .spaced :} **December 2024:** *It was a pleasure to speak on RAG techniques for Large Language Models at the [6G Summit Abu Dhabi](https://www.6gsummitabudhabi.com/), organised by the [Technology Innovation Institute](https://www.tii.ae/)*
 * {: .spaced :} **November 2024:** *Pleased to share that my views on the use of AI in the mental health space have been featured in [The National News](https://www.thenationalnews.com/future/technology/2024/11/01/hidden-dangers-of-ai-chatbots-for-vulnerable-users/)!*
