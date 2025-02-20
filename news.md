@@ -6,6 +6,7 @@ cover-img: "/img/bg/footer.jpg"
 ---
 
 * {: .spaced :} **January 2025:** *I’m thrilled to share that I’ve recently been awarded a 1.5M AED research grant from the [Dubai Future Foundation](https://www.dubaifuture.ae/) to conduct research on Artificial Intelligence for Healthcare, as part of the [Dubai RDI Initiative](https://dubairdi.ae/). I'll be leading the project "KAMAL Health: Knowledge-Augmented Multi-Modal Arabic LLMs for Healthcare" along with wonderful colleagues Robail Yasrab, Eric Atwell, Mohamed El Hadidi, Ph.D., Sudarsana Reddy Kadiri, Shrikanth Narayanan.*
+* {: .spaced :} **January 2025:** *Delighted to share that a book chapter I've co-authored has been published as part of the book [Translational Cardiology](https://shop.elsevier.com/books/translational-cardiology/bakal/978-0-323-91790-2)*
 * {: .spaced :} **January 2025:** *Excited to share that my paper on Arabic sentiment analysis has been accepted to NAACL 2025, one of the top 3 NLP conferences globally. 
 Full paper available [here](https://arxiv.org/abs/2502.03827)*
 * {: .spaced :} **December 2024:** *It was a pleasure to speak on RAG techniques for Large Language Models at the [6G Summit Abu Dhabi](https://www.6gsummitabudhabi.com/), organised by the [Technology Innovation Institute](https://www.tii.ae/)*
