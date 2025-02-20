@@ -4,6 +4,12 @@ show-avatar: false
 title: "News"
 cover-img: "/img/bg/footer.jpg"
 ---
+
+* {: .spaced :} **January 2025:** *I’m thrilled to share that I’ve recently been awarded a 1.5M AED research grant from the [Dubai Future Foundation](https://www.dubaifuture.ae/) to conduct research on Artificial Intelligence for Healthcare, as part of the [Dubai RDI Initiative](https://dubairdi.ae/). I'll be leading the project "KAMAL Health: Knowledge-Augmented Multi-Modal Arabic LLMs for Healthcare" along with wonderful colleagues Robail Yasrab, Eric Atwell, Mohamed El Hadidi, Ph.D., Sudarsana Reddy Kadiri, Shrikanth Narayanan.*
+* * {: .spaced :} **January 2025:** *Excited to share that my paper on Arabic sentiment analysis has been accepted to NAACL 2025, one of the top 3 NLP conferences globally. 
+Full paper available [here](https://arxiv.org/abs/2502.03827)*
+* {: .spaced :} **December 2024:** *It was a pleasure to speak on RAG techniques for Large Language Models at the [6G Summit Abu Dhabi](https://www.6gsummitabudhabi.com/), organised by the [Technology Innovation Institute](https://www.tii.ae/)*
+* {: .spaced :} **November 2024:** *Pleased to share that my views on the use of AI in the mental health space have been featured in [The National News](https://www.thenationalnews.com/future/technology/2024/11/01/hidden-dangers-of-ai-chatbots-for-vulnerable-users/)!*
 * {: .spaced :} **July 2024:** *Pleased our paper on AI for speech impediments has been accepted at [INTERSPEECH 2024](https://interspeech2024.org/)! We propose the first multi-modal neural approach for detecting speech disorders such as stuttering. The conference will be organised in Kos Island, Greece in September 2024.*
 * {: .spaced :} **March 2024:** *Happy to share that our paper has been accepted at [LREC-COLING 2024](https://lrec-coling-2024.org/)! The paper is about developing a novel neural sentiment-enhanced stock price prediction model. The conference will be organised in Turin, Italy in May 2024.*
 * {: .spaced :} **October 2023:** *Delighted to share that my media interviews on Generative AI have been published by [WIRED](https://lnkd.in/d6qGw5iB), [The National News](https://lnkd.in/dMRP2PDn) and [Zawya](https://lnkd.in/dTYmF_FH) among others.*
