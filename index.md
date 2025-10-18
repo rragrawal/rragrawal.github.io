@@ -2,7 +2,7 @@
 layout: page
 show-avatar: false
 title: Dr Ruchit Agrawal
-subtitle: Assistant Professor and Head of CS Outreach at University of Birmingham Dubai
+subtitle: Carnegie Mellon University
 cover-img: 
   - "/img/bg/skyline.jpeg" : Rise
 ---
