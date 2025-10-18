@@ -4,7 +4,7 @@ show-avatar: false
 title: Dr Ruchit Agrawal
 subtitle: Carnegie Mellon University
 cover-img: 
-  - "/img/bg/skyline.jpeg" : Rise
+  - "/img/bg/site_bg.jpg" : Rise
 ---
 
 Dr Ruchit Agrawal is an Assistant Professor of Information Systems at [Carnegie Mellon University in Qatar](https://www.cmu.edu/). Prior to this, he was an Assistant Professor of Computer Science and Head of CS Outreach at the [University of Birmingham](https://www.birmingham.ac.uk/) in Dubai. Dr Agrawal conducted his postdoctoral research at the [University of Oxford](https://www.ox.ac.uk/), where he worked on Artificial Intelligence for Healthcare at the [Computational Health Informatics Lab](https://eng.ox.ac.uk/chi/). Before Oxford, Dr Agrawal worked as a Marie-Curie Researcher in the [MIP-Frontiers](https://mip-frontiers.eu/) project, hosted at the [Queen Mary University of London](https://www.qmul.ac.uk/), and before that as an AI Researcher at the [Machine Translation](https://ict.fbk.eu/units/hlt-mt/) group at [FBK, Italy](https://www.fbk.eu/en/). His broad research interests include **Multimodal Deep Learning**, **Adaptive and Contextual AI**, **Natural Language Processing** and **Clinical Machine Learning**. 
