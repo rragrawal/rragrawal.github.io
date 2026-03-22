@@ -4,6 +4,12 @@ show-avatar: false
 title: "Publications"
 ---
 
+* {: .spaced :} [**voice2mode: Phonation Mode Classification in Singing using Self-Supervised Speech Models
+**](https://arxiv.org/abs/2602.13928)  
+ Justus A., Agrawal R., Reddy S., Narayanan S.
+  
+  *IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2026), Spain, May 2026*
+  
 * {: .spaced :} [**A Comprehensive Survey of Contemporary Arabic Sentiment Analysis: Methods, Challenges and Future Directions**](https://arxiv.org/abs/2502.03827)  
   Shi Z., Agrawal R.  
   
