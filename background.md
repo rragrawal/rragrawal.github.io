@@ -8,13 +8,13 @@ title: "Background"
 <ul class="fa-ul">
    
    <li><span class="fa-li"><i class="fas fa-briefcase"></i></span>
-    <strong>Assistant Professor of Information Systems</strong> (2025 - current) at <a href="https://www.birmingham.ac.uk/dubai/index.aspx">Carnegie Mellon University</a>
+    <strong>Assistant Professor of Information Systems</strong> (2025 - current) at <a href="https://www.cmu.edu/">Carnegie Mellon University in Qatar </a>
    </li>
    <li><span class="fa-li"><i class="fas fa-briefcase"></i></span>
-    <strong>Assistant Professor of Computer Science</strong> (2022 - 2025) at <a href="https://www.birmingham.ac.uk/">University of Birmingham</a>
+    <strong>Assistant Professor of Computer Science</strong> (2022 - 2025) at <a href="https://www.birmingham.ac.uk/dubai/index.aspx"> University of Birmingham Dubai </a>
    </li>
    <li><span class="fa-li"><i class="fas fa-briefcase"></i></span>
-    <strong>Head of Computer Science Outreach</strong> (2022 - 2025) at <a href="https://www.birmingham.ac.uk/">University of Birmingham</a>
+    <strong>Head of Computer Science Outreach</strong> (2022 - 2025) at <a href="https://www.birmingham.ac.uk/">University of Birmingham Dubai</a>
    </li>
    <li><span class="fa-li"><i class="fas fa-flask"></i></span>
     <strong>Postdoctoral Research Associate</strong> (2021 - 2022) at <a href="https://www.ox.ac.uk/">University of Oxford</a>
